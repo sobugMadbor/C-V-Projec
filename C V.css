@@ -1,0 +1,52 @@
+*{margin: 0;
+          padding: 0;}
+          
+          body{background-color:rgb(249, 249, 249);
+          font-family: Roboto;}
+          
+          .container{
+                    max-width:1000px;
+          background-color:rgb(183, 201, 201);margin: auto;
+          padding: 20px;}
+          header{}
+          
+          .profile-image{height: 120px;width: 100px;
+          border: 3px solid white;border-radius: 50px;
+          float: left;}
+          
+          .header-bio{float: left;padding: 30px;}
+           h1,h2,h3,h4,h5,h6{color: #11999e;}
+          .header-contact{float:right;padding: 30px;}
+          
+          .header-contact a{text-decoration: none;color: teal;
+          font-weight: bold;
+          }
+          .header-contact a:hover{text-decoration: underline;
+          color: tomato;}
+          
+          .div-clear{clear: both;}
+          hr{border:3px solid black;width: 100%;
+          margin:20px auto ;border-bottom: none;}
+          
+          /*---------------*/
+          #personal-section{}
+          .content{margin-bottom: 30px;}
+          .left-div{float: left;width:40%;}
+          .right-div{float: right;width: 60%;
+          }
+          
+          .common-hr{border: 1px solid black;
+          border-bottom: none;
+          width: 100%;margin:20px auto;}
+          
+          table,tr,td{border: 1px solid black;
+          border-collapse: collapse;text-align: center;
+          height:9px ;
+          width:150px ;
+          
+          }
+          
+          .a{font-size:30px;padding-left: 50px;text-decoration: overline;}
+          .b{padding-left:80px;}
+          .sobuj{}
+          .sobuj1{}
